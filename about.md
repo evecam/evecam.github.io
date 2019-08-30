@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+For any feedback relating the camera itself, or setting new system cameras up contact `Falldir Devi` ingame or on Slack.
