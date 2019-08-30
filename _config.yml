@@ -1,13 +1,13 @@
 # Site settings
-title_left    : "EveCam"
-title_right   : "space" # default: ""
+title_left    : "Brave"
+title_right   : "Cam" # default: ""
 description   : "EVE Online cameras to stay safe."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+keywords      : ""
 url           : https://evecam.github.io/ # site url
 baseurl       : ""
-cover         : "" # image uri like logo/cover image for site seo
+cover         : "./assets/images/brave.bmp" # image uri like logo/cover image for site seo
 
-google_analytics  : UA-XXXXX-XX
+# google_analytics  : UA-XXXXX-XX
 twitter_username  : ""
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
